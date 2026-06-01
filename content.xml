@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260601113302DH97NZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260601113302HEOUUD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PRODUCTO FINAL_SDA: ¡NOS VAMOS DE COMPRAS!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>RAQUEL AMAT ENCISO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se centra en la resolución de problemas cotidianos mediante el uso de ecuaciones de primer grado. La temática parte de situaciones cercanas al alumnado (repartos, compras, organización de actividades escolares, etc.), con el objetivo de conectar el lenguaje algebraico con contextos reales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780305056875</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpuznxfz-qw1witpog</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxfz-qw1witpog</odePageId>
+      <odeBlockId>block-1780075287587-qr8vfbknt</odeBlockId>
+      <blockName>ECUACIONES DE PRIMER GRADO Y DECIMALES EN COMPRAS</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxfz-qw1witpog</odePageId>
+          <odeBlockId>block-1780075287587-qr8vfbknt</odeBlockId>
+          <odeIdeviceId>idevice-1780075287585-ihi9849p5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" width="449" height="451" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-size: 8pt;">AUTOR IMAGEN: GANNENKO (Imagen de internet) </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780075287585-ihi9849p5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"449\" height=\"451\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 8pt;\">AUTOR IMAGEN: GANNENKO (Imagen de internet) </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg1-w6e1hjb3o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg1-w6e1hjb3o</odePageId>
+      <odeBlockId>block-1780075676658-ntgzmv125</odeBlockId>
+      <blockName>Cuidamos y mejoramos nuestro barrio.</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg1-w6e1hjb3o</odePageId>
+          <odeBlockId>block-1780075676658-ntgzmv125</odeBlockId>
+          <odeIdeviceId>idevice-1780075676656-lnvhj3a7c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 12pt;"><video width="300" height="150" controls="controls">
+<source src="{{context_path}}/content/resources/VID_MAT1ESO_REA02_Nosvamosdecompras.mp4" type="video/mp4" /></video></span></p>
+<p><span style="font-size: 12pt;"></span><span style="font-size: 8pt;">Autor video: REA Andalucía. </span></p>
+<p><span style="font-size: 12pt;"></span><br /></p>
+<p><span style="font-size: 12pt;">¿Te has planteado alguna vez cómo podrías mejorar tu entorno y aportar algo realmente valioso a quienes te rodean?</span></p>
+<p><span style="font-size: 12pt;">Es el momento de poner en marcha un proyecto con el que podamos ayudar de forma real y cercana a las personas de nuestra comunidad.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780075676656-lnvhj3a7c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/VID_MAT1ESO_REA02_Nosvamosdecompras.mp4\" type=\"video/mp4\" /></video></span></p>\n<p><span style=\"font-size: 12pt;\"></span><span style=\"font-size: 8pt;\">Autor video: REA Andalucía. </span></p>\n<p><span style=\"font-size: 12pt;\"></span><br /></p>\n<p><span style=\"font-size: 12pt;\">¿Te has planteado alguna vez cómo podrías mejorar tu entorno y aportar algo realmente valioso a quienes te rodean?</span></p>\n<p><span style=\"font-size: 12pt;\">Es el momento de poner en marcha un proyecto con el que podamos ayudar de forma real y cercana a las personas de nuestra comunidad.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpuznxg1-w6e1hjb3o</odePageId>
+      <odeBlockId>block-1780076407200-agaa1znx3</odeBlockId>
+      <blockName>1.1 ORIENTACIONES</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg1-w6e1hjb3o</odePageId>
+          <odeBlockId>block-1780076407200-agaa1znx3</odeBlockId>
+          <odeIdeviceId>idevice-1780076407198-vhx3uvkzm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/IMAGEN 1.png" width="115" height="111" alt="" /> <span style="font-size: 12pt;">Estudiaras como hacer una compra semanal para ti u otras personas necesitadas.</span></p>
+<p><span style="font-size: 8pt;">AUTOR: ayelet-keshet  (Imagen internet)</span></p>
+<p><span style="font-size: 12pt;"><img src="{{context_path}}/content/resources/IMAGEN 2.png" width="114" height="119" alt="" /> <span style="font-size: 12pt;">Realizarás una compra equilibrada y ajustada al presupuesto, considerando las necesidades nutricionales específicas de cada persona.</span></span></p>
+<p><span style="font-size: 8pt;">AUTOR: ctoelg  (Imagen internet)</span></p>
+<p><span style="font-size: 12pt;"><span style="font-size: 12pt;"><img src="{{context_path}}/content/resources/mceclip0_3.png" width="111" height="61" /> Te encargarás de los desplazamientos.</span></span></p>
+<p><span style="font-size: 8pt;">AUTOR: Theartboard228. (Imagen internet)</span></p>
+<p><span style="font-size: 12pt;"><span style="font-size: 12pt;"><img src="{{context_path}}/content/resources/mceclip1.png" width="119" height="113" alt="" /> Realizarás una valiosa tarea de apoyo, cercanía y acompañamiento.</span></span></p>
+<p><span style="font-size: 8pt;">AUTOR: shilh  (Imagen internet)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780076407198-vhx3uvkzm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/IMAGEN 1.png\" width=\"115\" height=\"111\" alt=\"\" /> <span style=\"font-size: 12pt;\">Estudiaras como hacer una compra semanal para ti u otras personas necesitadas.</span></p>\n<p><span style=\"font-size: 8pt;\">AUTOR: ayelet-keshet  (Imagen internet)</span></p>\n<p><span style=\"font-size: 12pt;\"><img src=\"{{context_path}}/content/resources/IMAGEN 2.png\" width=\"114\" height=\"119\" alt=\"\" /> <span style=\"font-size: 12pt;\">Realizarás una compra equilibrada y ajustada al presupuesto, considerando las necesidades nutricionales específicas de cada persona.</span></span></p>\n<p><span style=\"font-size: 8pt;\">AUTOR: ctoelg  (Imagen internet)</span></p>\n<p><span style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><img src=\"{{context_path}}/content/resources/mceclip0_3.png\" width=\"111\" height=\"61\" /> Te encargarás de los desplazamientos.</span></span></p>\n<p><span style=\"font-size: 8pt;\">AUTOR: Theartboard228. (Imagen internet)</span></p>\n<p><span style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><img src=\"{{context_path}}/content/resources/mceclip1.png\" width=\"119\" height=\"113\" alt=\"\" /> Realizarás una valiosa tarea de apoyo, cercanía y acompañamiento.</span></span></p>\n<p><span style=\"font-size: 8pt;\">AUTOR: shilh  (Imagen internet)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpuznxg1-w6e1hjb3o</odePageId>
+      <odeBlockId>block-1780077430894-i16f3sx9e</odeBlockId>
+      <blockName>1.2 OBJETIVOS.</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg1-w6e1hjb3o</odePageId>
+          <odeBlockId>block-1780077430894-i16f3sx9e</odeBlockId>
+          <odeIdeviceId>idevice-1780077430893-tfkn3xbif</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 12pt;">¿Qué conseguirás al final?</span></p>
+<ul>
+<li><span style="font-size: 12pt;">Aprender a realizar un consumo responsable y saludable.</span></li>
+<li><span style="font-size: 12pt;">Identificar los alimentos más y menos saludables. Utilizando la pirámide de los alimentos.</span></li>
+<li><span style="font-size: 12pt;">Utilizar y comprender los números decimales en situaciones cotidianas y las ecuaciones de primer grado para problemas cotidianos de compras.</span></li>
+<li><span style="font-size: 12pt;">Manejar presupuestos y calcular compras de forma eficiente.</span></li>
+<li><span style="font-size: 12pt;">Planificar una cesta de la compra adaptada a las necesidades de otras personas y las tuyas propias. </span></li>
+<li><span style="font-size: 12pt;">Aprenderás a gestionar tu dinero.</span><br /></li>
+<li><span style="font-size: 12pt;"></span><span style="font-size: 12pt;">¡Aprenderás de una forma práctica y divertida!</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780077430893-tfkn3xbif","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 12pt;\">¿Qué conseguirás al final?</span></p>\n<ul>\n<li><span style=\"font-size: 12pt;\">Aprender a realizar un consumo responsable y saludable.</span></li>\n<li><span style=\"font-size: 12pt;\">Identificar los alimentos más y menos saludables. Utilizando la pirámide de los alimentos.</span></li>\n<li><span style=\"font-size: 12pt;\">Utilizar y comprender los números decimales en situaciones cotidianas y las ecuaciones de primer grado para problemas cotidianos de compras.</span></li>\n<li><span style=\"font-size: 12pt;\">Manejar presupuestos y calcular compras de forma eficiente.</span></li>\n<li><span style=\"font-size: 12pt;\">Planificar una cesta de la compra adaptada a las necesidades de otras personas y las tuyas propias. </span></li>\n<li><span style=\"font-size: 12pt;\">Aprenderás a gestionar tu dinero.</span><br /></li>\n<li><span style=\"font-size: 12pt;\"></span><span style=\"font-size: 12pt;\">¡Aprenderás de una forma práctica y divertida!</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg2-2vzpdbao7</odePageId>
+  <odeParentPageId>page-mpuznxg1-w6e1hjb3o</odeParentPageId>
+  <pageName>DESCRIPCION DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCION DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCION DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg2-2vzpdbao7</odePageId>
+      <odeBlockId>block-1780081086243-qi3v8illq</odeBlockId>
+      <blockName>DESCRIPCIÓN DEL PROYECTO.</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg2-2vzpdbao7</odePageId>
+          <odeBlockId>block-1780081086243-qi3v8illq</odeBlockId>
+          <odeIdeviceId>idevice-1780081086242-3y1brqetb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/IMAGEN 5.png" width="553" height="311" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p>El proyecto se centra en la resolución de problemas cotidianos mediante el uso de ecuaciones de primer grado. La temática parte de situaciones cercanas al alumnado (repartos, compras, organización de actividades escolares, etc.), con el objetivo de conectar el lenguaje algebraico con contextos reales.</p>
+<p>Adjunto enlace a la presentación de la descripción del proyecto (Tarea 2.1)</p>
+<p><a href="https://drive.google.com/file/d/1ziKjOkLqRDQxU_3ULafzXoH0VyDcfDiS/view?usp=sharing">https://drive.google.com/file/d/1ziKjOkLqRDQxU_3ULafzXoH0VyDcfDiS/view?usp=sharing</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780081086242-3y1brqetb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/IMAGEN 5.png\" width=\"553\" height=\"311\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p>El proyecto se centra en la resolución de problemas cotidianos mediante el uso de ecuaciones de primer grado. La temática parte de situaciones cercanas al alumnado (repartos, compras, organización de actividades escolares, etc.), con el objetivo de conectar el lenguaje algebraico con contextos reales.</p>\n<p>Adjunto enlace a la presentación de la descripción del proyecto (Tarea 2.1)</p>\n<p><a href=\"https://drive.google.com/file/d/1ziKjOkLqRDQxU_3ULafzXoH0VyDcfDiS/view?usp=sharing\">https://drive.google.com/file/d/1ziKjOkLqRDQxU_3ULafzXoH0VyDcfDiS/view?usp=sharing</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg3-l5m969188</odePageId>
+  <odeParentPageId>page-mpuznxg1-w6e1hjb3o</odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg3-l5m969188</odePageId>
+      <odeBlockId>block-1780081208755-i9dfa0rvx</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg3-l5m969188</odePageId>
+          <odeBlockId>block-1780081208755-i9dfa0rvx</odeBlockId>
+          <odeIdeviceId>idevice-1780081208754-nt341ohve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/IMAGEN 6.png" width="557" height="311" alt="" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p>Adjunto enlace de la información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales (Tarea 2.3)</p>
+<p><a href="https://drive.google.com/file/d/1ojdokVElVo5LGVDw93snHfM9I-XiVX2n/view?usp=sharing">https://drive.google.com/file/d/1ojdokVElVo5LGVDw93snHfM9I-XiVX2n/view?usp=sharing</a></p>
+<p><br /></p>
+<p> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780081208754-nt341ohve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/IMAGEN 6.png\" width=\"557\" height=\"311\" alt=\"\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p>Adjunto enlace de la información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales (Tarea 2.3)</p>\n<p><a href=\"https://drive.google.com/file/d/1ojdokVElVo5LGVDw93snHfM9I-XiVX2n/view?usp=sharing\">https://drive.google.com/file/d/1ojdokVElVo5LGVDw93snHfM9I-XiVX2n/view?usp=sharing</a></p>\n<p><br /></p>\n<p> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg3-696e2xsnl</odePageId>
+  <odeParentPageId>page-mpuznxg1-w6e1hjb3o</odeParentPageId>
+  <pageName>DESCRIPCION PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCION PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCION PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg3-696e2xsnl</odePageId>
+      <odeBlockId>block-1780081470044-rmexk7f3j</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg3-696e2xsnl</odePageId>
+          <odeBlockId>block-1780081470044-rmexk7f3j</odeBlockId>
+          <odeIdeviceId>idevice-1780081470043-z08fepe73</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/IMAGEN 7.png" width="225" height="226" alt="" style="float: left;" />     <img src="{{context_path}}/content/resources/IMAGEN 8.png" width="333" height="141" alt="" style="display: block; margin-left: auto; margin-right: auto;" />  </p>
+<p><br /></p>
+<p><br /></p>
+<p>El producto final que realizará el alumnado de 2.º de ESO, organizado en grupos heterogéneos, consistirá en una investigación sobre el uso de ecuaciones de primer grado y decimales en contextos reales. Esta actividad se desarrollará mediante metodologías activas y el uso de la tecnología, integrando el empleo de los Chromebooks como herramienta de trabajo.</p>
+<p>Siguiendo los principios del DUA, el alumnado podrá seleccionar el formato de presentación de su trabajo empleando herramientas como Canva o Genially, entre otras opciones. Estas plataformas destacan por su facilidad de uso y trabajo intuitivo, lo que permitirá elaborar pósteres explicativos o infografías para difundir el proceso y los resultados del trabajo a la comunidad educativa. Asimismo, el proyecto incluirá una exposición oral que será objeto de coevaluación por parte de sus compañeros.</p>
+<p>Cabe destacar que cada estudiante dispone de su propio Chromebook y cuenta con una base previa de alfabetización digital, adquirida el curso anterior, que les permite manejar con soltura las herramientas propuestas. No obstante, se mantiene la flexibilidad para que puedan emplear otras opciones si así lo desean. Además, el alumnado cuenta con recursos digitales e internet en casa, lo que facilita que puedan seguir trabajando en las actividades cuando necesiten más tiempo del disponible en el aula.</p>
+<p>La SdA se centra en la resolución de problemas cotidianos mediante ecuaciones de primer grado y números decimales, partiendo de situaciones cercanas al alumnado (repartos, compras, organización de actividades, etc.), con el objetivo de relacionar el lenguaje algebraico con la vida real. De este modo, el alumnado elaborará un producto final que será objeto de evaluación, fomentando además su papel activo en el proceso de aprendizaje.</p>
+<p>Entre los objetivos principales de esta propuesta se encuentran el fomento del pensamiento crítico, el desarrollo de la competencia en comunicación lingüística, así como de la competencia personal, social y de aprender.</p>
+<p>la descripción del producto final que deberá elaborar el alumnado (Tarea 4.1)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780081470043-z08fepe73","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/IMAGEN 7.png\" width=\"225\" height=\"226\" alt=\"\" style=\"float: left;\" />     <img src=\"{{context_path}}/content/resources/IMAGEN 8.png\" width=\"333\" height=\"141\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />  </p>\n<p><br /></p>\n<p><br /></p>\n<p>El producto final que realizará el alumnado de 2.º de ESO, organizado en grupos heterogéneos, consistirá en una investigación sobre el uso de ecuaciones de primer grado y decimales en contextos reales. Esta actividad se desarrollará mediante metodologías activas y el uso de la tecnología, integrando el empleo de los Chromebooks como herramienta de trabajo.</p>\n<p>Siguiendo los principios del DUA, el alumnado podrá seleccionar el formato de presentación de su trabajo empleando herramientas como Canva o Genially, entre otras opciones. Estas plataformas destacan por su facilidad de uso y trabajo intuitivo, lo que permitirá elaborar pósteres explicativos o infografías para difundir el proceso y los resultados del trabajo a la comunidad educativa. Asimismo, el proyecto incluirá una exposición oral que será objeto de coevaluación por parte de sus compañeros.</p>\n<p>Cabe destacar que cada estudiante dispone de su propio Chromebook y cuenta con una base previa de alfabetización digital, adquirida el curso anterior, que les permite manejar con soltura las herramientas propuestas. No obstante, se mantiene la flexibilidad para que puedan emplear otras opciones si así lo desean. Además, el alumnado cuenta con recursos digitales e internet en casa, lo que facilita que puedan seguir trabajando en las actividades cuando necesiten más tiempo del disponible en el aula.</p>\n<p>La SdA se centra en la resolución de problemas cotidianos mediante ecuaciones de primer grado y números decimales, partiendo de situaciones cercanas al alumnado (repartos, compras, organización de actividades, etc.), con el objetivo de relacionar el lenguaje algebraico con la vida real. De este modo, el alumnado elaborará un producto final que será objeto de evaluación, fomentando además su papel activo en el proceso de aprendizaje.</p>\n<p>Entre los objetivos principales de esta propuesta se encuentran el fomento del pensamiento crítico, el desarrollo de la competencia en comunicación lingüística, así como de la competencia personal, social y de aprender.</p>\n<p>la descripción del producto final que deberá elaborar el alumnado (Tarea 4.1)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg4-a7n8l971k</odePageId>
+  <odeParentPageId>page-mpuznxg3-696e2xsnl</odeParentPageId>
+  <pageName>HERRAMIENTAS DE TRABAJO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE TRABAJO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg4-a7n8l971k</odePageId>
+      <odeBlockId>block-1780082102587-j08u909bj</odeBlockId>
+      <blockName>HERRAMIENTAS DE TRABAJO</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg4-a7n8l971k</odePageId>
+          <odeBlockId>block-1780082102587-j08u909bj</odeBlockId>
+          <odeIdeviceId>idevice-1780082102586-ybe95q43b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para poder trabajar el producto final es necesario que podáis orientaros con las siguientes herramientas de curación donde encontrareis, enlaces, fichas, videos explicativos... espero que lo veáis y lo utilicéis.</p>
+<p>Para el alumnado:</p>
+<p><img src="{{context_path}}/content/resources/mceclip1_3.png" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p><a href="https://padlet.com/raquelamatenciso/matematicas-u7e03equ1wbn334c">https://padlet.com/raquelamatenciso/matematicas-u7e03equ1wbn334c</a></p>
+<p>Para el profesorado:</p>
+<p><img src="{{context_path}}/content/resources/mceclip2_3.png" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAzdhS2cAA41_W3ct7w==">https://www.symbaloo.com/shared/AAAAAzdhS2cAA41_W3ct7w==</a></p>
+<p><span style="font-size: 10pt;">Las dos herramientas de curación de contenidos editadas en la Tarea 5.1, tanto la diseñada para el o la docente, como la destinada al alumnado</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780082102586-ybe95q43b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para poder trabajar el producto final es necesario que podáis orientaros con las siguientes herramientas de curación donde encontrareis, enlaces, fichas, videos explicativos... espero que lo veáis y lo utilicéis.</p>\n<p>Para el alumnado:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1_3.png\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p><a href=\"https://padlet.com/raquelamatenciso/matematicas-u7e03equ1wbn334c\">https://padlet.com/raquelamatenciso/matematicas-u7e03equ1wbn334c</a></p>\n<p>Para el profesorado:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2_3.png\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAzdhS2cAA41_W3ct7w==\">https://www.symbaloo.com/shared/AAAAAzdhS2cAA41_W3ct7w==</a></p>\n<p><span style=\"font-size: 10pt;\">Las dos herramientas de curación de contenidos editadas en la Tarea 5.1, tanto la diseñada para el o la docente, como la destinada al alumnado</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg4-4xngyl7n6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. MAPA MENTAL DEL PROYECTO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. MAPA MENTAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. MAPA MENTAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. MAPA MENTAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg4-4xngyl7n6</odePageId>
+      <odeBlockId>block-1780082473114-860rsoffd</odeBlockId>
+      <blockName>MAPA MENTAL DEL PROYECTO</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg4-4xngyl7n6</odePageId>
+          <odeBlockId>block-1780082473114-860rsoffd</odeBlockId>
+          <odeIdeviceId>idevice-1780082473113-0t6hpq5ea</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><img src="{{context_path}}/content/resources/IMAGEN 9.png" width="228" height="321" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p>Adjunto enlace del mapa mental del proyecto que presenta la organización de las sesiones y tareas.</p>
+<p><a href="https://drive.google.com/file/d/1z2if7-9zZYoJBTP1brNGr5P-N3hagamT/view?usp=sharing">https://drive.google.com/file/d/1z2if7-9zZYoJBTP1brNGr5P-N3hagamT/view?usp=sharing</a></p>
+<p><span style="font-size: 10pt;">El mapa mental que presenta de forma organizada las actividades y tareas del proyecto (Tarea 7.1)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780082473113-0t6hpq5ea","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/IMAGEN 9.png\" width=\"228\" height=\"321\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p>Adjunto enlace del mapa mental del proyecto que presenta la organización de las sesiones y tareas.</p>\n<p><a href=\"https://drive.google.com/file/d/1z2if7-9zZYoJBTP1brNGr5P-N3hagamT/view?usp=sharing\">https://drive.google.com/file/d/1z2if7-9zZYoJBTP1brNGr5P-N3hagamT/view?usp=sharing</a></p>\n<p><span style=\"font-size: 10pt;\">El mapa mental que presenta de forma organizada las actividades y tareas del proyecto (Tarea 7.1)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg5-dg2ph70em</odePageId>
+  <odeParentPageId>page-mpuznxg4-4xngyl7n6</odeParentPageId>
+  <pageName>SESIONES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIONES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIONES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg5-dg2ph70em</odePageId>
+      <odeBlockId>block-1780226093900-t02borqjh</odeBlockId>
+      <blockName>SESIONES</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg5-dg2ph70em</odePageId>
+          <odeBlockId>block-1780226093900-t02borqjh</odeBlockId>
+          <odeIdeviceId>idevice-1780226093900-ve958eerj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0_1.png" />      <img src="{{context_path}}/content/resources/mceclip1_1.png" />    </p>
+<p><img src="{{context_path}}/content/resources/mceclip2_1.png" />         <img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip4_1.png" />          <img src="{{context_path}}/content/resources/mceclip5_1.png" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780226093900-ve958eerj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" />      <img src=\"{{context_path}}/content/resources/mceclip1_1.png\" />    </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2_1.png\" />         <img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4_1.png\" />          <img src=\"{{context_path}}/content/resources/mceclip5_1.png\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg5-io6avpokg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg5-io6avpokg</odePageId>
+      <odeBlockId>block-1780082946073-8sy00184p</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg5-io6avpokg</odePageId>
+          <odeBlockId>block-1780082946073-8sy00184p</odeBlockId>
+          <odeIdeviceId>idevice-1780082946072-2jxzzg6vj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 10pt;"><img src="{{context_path}}/content/resources/IMAGEN 10.png" width="1015" height="710" alt="" /></span></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p><span style="font-size: 10pt;"><a href="https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true">https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true</a></span></p>
+<p><span style="font-size: 10pt;">Los criterios de evaluación asociados a esas actividades (Tarea 6.1)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780082946072-2jxzzg6vj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 10pt;\"><img src=\"{{context_path}}/content/resources/IMAGEN 10.png\" width=\"1015\" height=\"710\" alt=\"\" /></span></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p><span style=\"font-size: 10pt;\"><a href=\"https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true\">https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true</a></span></p>\n<p><span style=\"font-size: 10pt;\">Los criterios de evaluación asociados a esas actividades (Tarea 6.1)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg5-xbzx3o40i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4.INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg5-xbzx3o40i</odePageId>
+      <odeBlockId>block-1780083474145-b8ej036mn</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg5-xbzx3o40i</odePageId>
+          <odeBlockId>block-1780083474145-b8ej036mn</odeBlockId>
+          <odeIdeviceId>idevice-1780083474144-6qdvripfn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="font-size: 14pt;">                  DIANA DE EVALUACION                 PRUEBA                                 RÚBRICA</span></strong></p>
+<p><span style="font-size: 10pt;"><img src="{{context_path}}/content/resources/IMAGEN 11.png" width="178" height="251" alt="" />   <img src="{{context_path}}/content/resources/IMAGEN 12.png" width="170" height="239" alt="" />  <img src="{{context_path}}/content/resources/IMAGEN 13.png" width="168" height="235" alt="" />  <img src="{{context_path}}/content/resources/IMAGEN 14.png" width="151" height="210" alt="" />  <img src="{{context_path}}/content/resources/IMAGEN 15.png" width="147" height="203" alt="" /></span></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p><span style="font-size: 10pt;">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780083474144-6qdvripfn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"font-size: 14pt;\">                  DIANA DE EVALUACION                 PRUEBA                                 RÚBRICA</span></strong></p>\n<p><span style=\"font-size: 10pt;\"><img src=\"{{context_path}}/content/resources/IMAGEN 11.png\" width=\"178\" height=\"251\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/IMAGEN 12.png\" width=\"170\" height=\"239\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/IMAGEN 13.png\" width=\"168\" height=\"235\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/IMAGEN 14.png\" width=\"151\" height=\"210\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/IMAGEN 15.png\" width=\"147\" height=\"203\" alt=\"\" /></span></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p><span style=\"font-size: 10pt;\">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg6-gr048lqmb</odePageId>
+  <odeParentPageId>page-mpuznxg5-xbzx3o40i</odeParentPageId>
+  <pageName>DIANA DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIANA DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIANA DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg6-gr048lqmb</odePageId>
+      <odeBlockId>block-1780084236528-frtdonjg1</odeBlockId>
+      <blockName>DIANA DE EVALUACIÓN</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg6-gr048lqmb</odePageId>
+          <odeBlockId>block-1780084236528-frtdonjg1</odeBlockId>
+          <odeIdeviceId>idevice-1780084236526-2u0wedwb1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/IMAGEN 12.png" width="497" height="698" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p>Adjunto enlace de las características de la Diana de Evaluación:</p>
+<p><a href="https://drive.google.com/file/d/16XihUNFqPA13VM2tRFwh4WU67D3dyDrv/view?usp=sharing">https://drive.google.com/file/d/16XihUNFqPA13VM2tRFwh4WU67D3dyDrv/view?usp=sharing</a></p>
+<p><span style="font-size: 10pt;">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780084236526-2u0wedwb1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/IMAGEN 12.png\" width=\"497\" height=\"698\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p>Adjunto enlace de las características de la Diana de Evaluación:</p>\n<p><a href=\"https://drive.google.com/file/d/16XihUNFqPA13VM2tRFwh4WU67D3dyDrv/view?usp=sharing\">https://drive.google.com/file/d/16XihUNFqPA13VM2tRFwh4WU67D3dyDrv/view?usp=sharing</a></p>\n<p><span style=\"font-size: 10pt;\">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg6-yu1dkswkf</odePageId>
+  <odeParentPageId>page-mpuznxg5-xbzx3o40i</odeParentPageId>
+  <pageName>PRUEBA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRUEBA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRUEBA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg6-yu1dkswkf</odePageId>
+      <odeBlockId>block-1780084330337-s16ajxg1z</odeBlockId>
+      <blockName>PRUEBA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg6-yu1dkswkf</odePageId>
+          <odeBlockId>block-1780084330337-s16ajxg1z</odeBlockId>
+          <odeIdeviceId>idevice-1780084330336-432jtm8rr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/IMAGEN 13.png" width="374" height="522" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p>Adjunto enlace de las características de la Prueba:</p>
+<p><a href="https://drive.google.com/file/d/1Mk0eqUnhu_ngB45CtY2VfhXfCB32ZLVn/view?usp=sharing">https://drive.google.com/file/d/1Mk0eqUnhu_ngB45CtY2VfhXfCB32ZLVn/view?usp=sharing</a></p>
+<p><span style="font-size: 10pt;">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780084330336-432jtm8rr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/IMAGEN 13.png\" width=\"374\" height=\"522\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p>Adjunto enlace de las características de la Prueba:</p>\n<p><a href=\"https://drive.google.com/file/d/1Mk0eqUnhu_ngB45CtY2VfhXfCB32ZLVn/view?usp=sharing\">https://drive.google.com/file/d/1Mk0eqUnhu_ngB45CtY2VfhXfCB32ZLVn/view?usp=sharing</a></p>\n<p><span style=\"font-size: 10pt;\">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg6-hyqsrkpeh</odePageId>
+  <odeParentPageId>page-mpuznxg5-xbzx3o40i</odeParentPageId>
+  <pageName>RÚBRICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RÚBRICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg6-hyqsrkpeh</odePageId>
+      <odeBlockId>block-1780084390855-a3sv19awi</odeBlockId>
+      <blockName>RÚBRICA</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg6-hyqsrkpeh</odePageId>
+          <odeBlockId>block-1780084390855-a3sv19awi</odeBlockId>
+          <odeIdeviceId>idevice-1780084390854-grtje269z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/IMAGEN 15.png" width="387" height="536" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p>Adjunto enlace de las características de la Rúbrica:</p>
+<p><a href="https://drive.google.com/file/d/18Ng8M85yhFym8Y7kij-qUz2fRj0YoTkW/view?usp=sharing">https://drive.google.com/file/d/18Ng8M85yhFym8Y7kij-qUz2fRj0YoTkW/view?usp=sharing</a></p>
+<p><span style="font-size: 10pt;">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780084390854-grtje269z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/IMAGEN 15.png\" width=\"387\" height=\"536\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p>Adjunto enlace de las características de la Rúbrica:</p>\n<p><a href=\"https://drive.google.com/file/d/18Ng8M85yhFym8Y7kij-qUz2fRj0YoTkW/view?usp=sharing\">https://drive.google.com/file/d/18Ng8M85yhFym8Y7kij-qUz2fRj0YoTkW/view?usp=sharing</a></p>\n<p><span style=\"font-size: 10pt;\">Los instrumentos de evaluación elaborados en la Tarea 8.1</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg7-rqra2cekl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg7-rqra2cekl</odePageId>
+      <odeBlockId>block-1780087442547-k4rg3si4b</odeBlockId>
+      <blockName>ASOCIAMOS TAREAS CON CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg7-rqra2cekl</odePageId>
+          <odeBlockId>block-1780087442547-k4rg3si4b</odeBlockId>
+          <odeIdeviceId>idevice-1780087442547-mln0auq37</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 10pt;"><img src="{{context_path}}/content/resources/IMAGEN 10.png" width="1015" height="710" alt="" /></span></p>
+<p><span style="font-size: 8pt;">Autora: Raquel AE.</span></p>
+<p><span style="font-size: 10pt;"><a href="https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true">https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true</a></span></p>
+<p><span style="font-size: 10pt;">Los criterios de evaluación asociados a esas actividades (Tarea 6.1)</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780087442547-mln0auq37","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 10pt;\"><img src=\"{{context_path}}/content/resources/IMAGEN 10.png\" width=\"1015\" height=\"710\" alt=\"\" /></span></p>\n<p><span style=\"font-size: 8pt;\">Autora: Raquel AE.</span></p>\n<p><span style=\"font-size: 10pt;\"><a href=\"https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true\">https://docs.google.com/document/d/1UWZ4OgsRTP3P06Vinu7BW7GY1xJAQFX_/edit?usp=sharing&ouid=113927455457407938538&rtpof=true&sd=true</a></span></p>\n<p><span style=\"font-size: 10pt;\">Los criterios de evaluación asociados a esas actividades (Tarea 6.1)</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpuznxg7-rqra2cekl</odePageId>
+      <odeBlockId>block-1780087643757-ke6gm3ecr</odeBlockId>
+      <blockName>SABERES BÁSICOS DE REFERENCIA</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg7-rqra2cekl</odePageId>
+          <odeBlockId>block-1780087643757-ke6gm3ecr</odeBlockId>
+          <odeIdeviceId>idevice-1780087643756-0vigz4pus</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se detalla la relación de saberes básicos que han servido de referencia para plantear las tareas de este recurso. </p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip4_2.png" /></p>
+<p style="text-align: left;"><span style="font-size: 8pt;">AUTORA:RAQUEL AE.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780087643756-0vigz4pus","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se detalla la relación de saberes básicos que han servido de referencia para plantear las tareas de este recurso. </p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip4_2.png\" /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 8pt;\">AUTORA:RAQUEL AE.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpuznxg7-rqra2cekl</odePageId>
+      <odeBlockId>block-1780087945411-0ppbbcd52</odeBlockId>
+      <blockName>COMPETENCIAS CLAVE</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg7-rqra2cekl</odePageId>
+          <odeBlockId>block-1780087945411-0ppbbcd52</odeBlockId>
+          <odeIdeviceId>idevice-1780087945410-lcofurqgo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se incluyen los descriptores de las competencias clave estipuladas por la normativa trabajadas en este recurso.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip1_2.png" /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip2_2.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="font-size: 8pt;">AUTORA: RAQUEL AE.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780087945410-lcofurqgo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se incluyen los descriptores de las competencias clave estipuladas por la normativa trabajadas en este recurso.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip1_2.png\" /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2_2.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"font-size: 8pt;\">AUTORA: RAQUEL AE.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpuznxg7-gpt3qsrzw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. CREDITOS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CREDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CREDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. CREDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpuznxg7-gpt3qsrzw</odePageId>
+      <odeBlockId>block-1780225468271-fsi5k219h</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpuznxg7-gpt3qsrzw</odePageId>
+          <odeBlockId>block-1780225468271-fsi5k219h</odeBlockId>
+          <odeIdeviceId>idevice-1780225468270-a16c328q6</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">PRODUCTO FINAL_SDA: ¡NOS VAMOS DE COMPRAS!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El proyecto se centra en la resolución de problemas cotidianos mediante el uso de ecuaciones de primer grado. La temática parte de situaciones cercanas al alumnado (repartos, compras, organización de actividades escolares, etc.), con el objetivo de conectar el lenguaje algebraico con contextos reales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">RAQUEL AMAT ENCISO</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
